@@ -1,16 +1,32 @@
-# React + Vite
+# 💻 Karl Djansi - Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio built with React and Vite to showcase my skills and projects.
 
-Currently, two official plugins are available:
+## ✨ Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive: Optimal viewing on all devices (mobile, tablet, desktop).
+- Performance: Built on the high-speed Vite toolchain for quick loading.
 
-## React Compiler
+Project Showcase: Detailed views for key work with direct links to source code and demos.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+| Category | Technology | 
+ | ----- | ----- | 
+| **Framework** | React |
+| **Build Tool** | Vite |
+| **Styling** | Tailwind CSS (or similar) |
+| **Language** | JavaScript (ES6+) |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Development Stack Notes
+
+This project uses an optimized React + Vite setup for modern performance:
+
+- Vite for blazing-fast HMR (Hot Module Replacement).
+
+- ESLint enforced for code quality.
+
+- Uses official Vite plugins for efficient Fast Refresh (React/Babel and React/SWC).
+
+- Prepared for optional TypeScript integration and advanced ESLint rules.
+
